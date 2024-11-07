@@ -1,5 +1,5 @@
 Gender,EthnicGroup,ParentEduc,LunchType,TestPrep,ParentMaritalStatus,PracticeSport,IsFirstChild,NrSiblings,TransportMeans,WklyStudyHours,MathScore,ReadingScore,WritingScore
-female,unknown,bachelor's degree,standard,none,married,regularly,yes,3,school_bus,< 5,710,71,74
+female,unknown,bachelor's degree,standard,none,married,regularly,yes,3,school_bus,< 5,71,71,74
 female,group C,some college,standard,none,married,sometimes,yes,0,unknown,10-May,69,90,88
 female,group B,master's degree,standard,none,single,sometimes,yes,4,school_bus,< 5,87,93,91
 male,group A,associate's degree,free/reduced,none,married,never,no,1,unknown,10-May,45,56,42
