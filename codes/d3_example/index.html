@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Bar Chart with D3</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        .bar { 
+            fill: steelblue;
+        }
+        .bar:hover {
+            fill: orange;
+        }
+        .axis-label { 
+            font-size: 12px;
+            fill: #999;
+        }
+        #tooltips { 
+            position: absolute;
+            background: #fff;
+            padding: 4px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            font-size: 12px;
+            color: #666;
+            visibility: hidden;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Interactive Bar Chart</h1>
+    <svg id="bar-chart" width="0px" height="0px"></svg>
+    <div id="tooltips"></div>
+    <script src="script.js"></script>
+</body>
+</html>

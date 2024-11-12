@@ -1,0 +1,231 @@
+Country,Cases,Deaths,Region
+United States,111820082,1219487,North America
+India,45035393,533570,Asia
+France,40138560,167642,Europe
+Germany,38828995,183027,Europe
+Brazil,38743918,711380,South America
+South Korea,34571873,35934,Asia
+Japan (+Diamond Princess),33804284,74707,Asia
+Italy,26723249,196487,Europe
+United Kingdom,24910387,232112,Europe
+Russia,24124215,402756,Europe
+Turkey,17232066,102174,Asia
+Spain,13914811,121760,Europe
+Australia,11853144,24414,Australia/Oceania
+Vietnam,11625195,43206,Asia
+Taiwan,10241523,19005,Asia
+Argentina,10128845,130841,South America
+Netherlands,8635786,22992,Europe
+Mexico,7702809,334958,North America
+Iran,7627186,146811,Asia
+Indonesia,6829221,162063,Asia
+Poland,6661991,120598,Europe
+Colombia,6400173,143200,South America
+Greece,6101379,37869,Europe
+Austria,6081287,22542,Europe
+Portugal,5643062,28126,Europe
+Ukraine,5557995,112418,Europe
+Chile,5384853,64497,South America
+Malaysia,5278406,37348,Asia
+Canada,4946090,59034,North America
+Belgium,4861695,34376,Europe
+Israel,4841772,12707,Asia
+North Korea,4772813,74,Asia
+Thailand,4770149,34586,Asia
+Czech Republic (Czechia),4759041,43517,Europe
+Peru,4572667,222161,South America
+Switzerland,4453053,14452,Europe
+Philippines,4140383,66864,Asia
+South Africa,4076463,102595,Africa
+Romania,3529735,68929,Europe
+Denmark,3183756,8814,Europe
+Singapore,3006155,2024,Asia
+Hong Kong,2937609,14924,Asia
+Sweden,2754129,27407,Europe
+New Zealand,2621111,5697,Australia/Oceania
+Serbia,2615054,18057,Europe
+Iraq,2465545,25375,Asia
+Hungary,2230232,49048,Europe
+Bangladesh,2049377,29493,Asia
+Slovakia,1877605,21224,Europe
+Georgia,1861665,17132,Asia
+Jordan,1746997,14122,Asia
+Ireland,1734582,9491,Europe
+Pakistan,1581936,30664,Asia
+Finland,1516117,11958,Europe
+Norway,1509732,6638,Europe
+Kazakhstan,1411831,13848,Asia
+Lithuania,1397806,9897,Europe
+Slovenia,1356546,7100,Europe
+Bulgaria,1339851,38748,Europe
+Croatia,1309728,18687,Europe
+Guatemala,1291293,20289,North America
+Morocco,1278992,16303,Africa
+Lebanon,1243838,10952,Asia
+Costa Rica,1238883,9428,North America
+Bolivia,1212131,22407,South America
+Tunisia,1153361,29423,Africa
+Cuba,1115251,8530,North America
+Ecuador,1070188,36043,South America
+United Arab Emirates,1067030,2349,Asia
+Panama,1059893,8727,North America
+Uruguay,1041111,7664,South America
+Mongolia,1011496,2284,Asia
+Nepal,1003450,12031,Asia
+Belarus,994037,7118,Europe
+Latvia,982505,6715,Europe
+Saudi Arabia,841469,9646,Asia
+Paraguay,837602,20155,South America
+Azerbaijan,835234,10400,Asia
+Bahrain,729549,1574,Asia
+Cyprus,681110,1365,Asia
+Dominican Republic,675890,4384,North America
+Sri Lanka,672754,16897,Asia
+Kuwait,667158,2570,Asia
+Myanmar,641873,19495,Asia
+Moldova,635145,12218,Europe
+Estonia,628070,3001,Europe
+State of Palestine,621008,5404,Asia
+Venezuela,552695,5856,South America
+Egypt,516023,24613,Africa
+Qatar,514524,690,Asia
+Libya,507274,6437,Africa
+China,503302,5272,Asia
+Ethiopia,501157,7574,Africa
+Réunion,494595,921,Africa
+Honduras,474590,11165,North America
+Armenia,451831,8777,Asia
+Bosnia and Herzegovina,403615,16388,Europe
+Oman,399449,4628,Asia
+Luxembourg,391232,1232,Europe
+North Macedonia,350567,9976,Europe
+Zambia,349304,4069,Africa
+Kenya,344130,5689,Africa
+Brunei ,343719,225,Asia
+Albania,334863,3605,Europe
+Botswana,330638,2801,Africa
+Montenegro,296542,2846,Europe
+Algeria,272010,6881,Africa
+Nigeria,267188,3155,Africa
+Zimbabwe,266359,5740,Africa
+Uzbekistan,253662,1637,Asia
+Afghanistan,234174,7996,Asia
+Mozambique,233731,2250,Africa
+Martinique,230354,1102,North America
+Laos,218970,758,Asia
+Iceland,209906,229,Europe
+Kyrgyzstan,206897,2991,Asia
+Guadeloupe,203235,1021,North America
+El Salvador,201855,4230,North America
+Trinidad and Tobago,191496,4390,North America
+Maldives,186694,316,Asia
+Namibia,172389,4106,Africa
+Uganda,172149,3632,Africa
+Ghana,171889,1462,Africa
+Jamaica,156869,3756,North America
+Cambodia,139103,3056,Asia
+Rwanda,133518,1468,Africa
+Cameroon,125379,1974,Africa
+Malta,121420,885,Europe
+Barbados,110578,648,North America
+Angola,107327,1937,Africa
+Channel Islands,101717,228,Europe
+DR Congo,99338,1468,Africa
+French Guiana,98041,420,South America
+Malawi,89535,2686,Africa
+Senegal,89053,1971,Africa
+Côte d'Ivoire,88384,835,Africa
+Suriname,82588,1408,South America
+New Caledonia,80064,314,Australia/Oceania
+French Polynesia,79254,650,Australia/Oceania
+Eswatini,75191,1427,Africa
+Guyana,74137,1300,South America
+Belize,71409,688,North America
+Fiji,69117,885,Australia/Oceania
+Madagascar,68486,1426,Africa
+Cabo Verde,64477,417,Africa
+Sudan,63993,5046,Africa
+Mauritania,63848,997,Africa
+Bhutan,62697,21,Asia
+Syria,57743,3165,Asia
+Burundi,54721,38,Africa
+Seychelles,51220,172,Africa
+Gabon,49051,307,Africa
+Andorra,48015,165,Europe
+Papua New Guinea,46864,670,Australia/Oceania
+Curaçao,45986,295,North America
+Aruba,44224,292,North America
+Tanzania,43223,846,Africa
+Mauritius,43025,1051,Africa
+Mayotte,42027,188,Africa
+Togo,39572,290,Africa
+Guinea,38572,468,Africa
+Bahamas,38084,844,North America
+Isle of Man,38008,116,Europe
+Lesotho,36138,723,Africa
+Haiti,34667,860,North America
+Faeroe Islands,34658,28,Europe
+Mali,33164,743,Africa
+Cayman Islands,31472,37,North America
+Saint Lucia,30215,410,North America
+Benin,28036,163,Africa
+Macao,27673,123,Asia
+Somalia,27334,1361,Africa
+Micronesia,26547,65,Australia/Oceania
+San Marino,26185,128,Europe
+Solomon Islands,25954,199,Australia/Oceania
+Congo,25375,386,Africa
+Timor-Leste,23460,138,Asia
+Burkina Faso,22114,400,Africa
+Liechtenstein,21574,94,Europe
+Gibraltar,20550,113,Europe
+Grenada,19693,238,North America
+Bermuda,18860,165,North America
+South Sudan,18819,147,Africa
+Nicaragua,18491,225,North America
+Tajikistan,17786,125,Asia
+Equatorial Guinea,17229,183,Africa
+Monaco,17181,67,Europe
+Samoa,17006,31,Australia/Oceania
+Tonga,16950,13,Australia/Oceania
+Marshall Islands,16138,17,Australia/Oceania
+Dominica,16038,74,North America
+Djibouti,15690,189,Africa
+Central African Republic,15440,113,Africa
+Gambia,12626,372,Africa
+Saint Martin,12324,63,North America
+Vanuatu,12019,14,Australia/Oceania
+Greenland,11971,21,North America
+Yemen,11945,2159,Asia
+Caribbean Netherlands,11682,38,North America
+Sint Maarten,11051,92,North America
+Eritrea,10189,103,Africa
+Niger,9931,312,Africa
+St. Vincent & Grenadines,9674,124,North America
+Guinea-Bissau,9614,177,Africa
+Comoros,9109,161,Africa
+Antigua and Barbuda,9106,146,North America
+Liberia,8090,295,Africa
+Sierra Leone,7779,126,Africa
+Chad,7701,194,Africa
+British Virgin Islands,7392,64,North America
+Cook Islands,7203,2,Australia/Oceania
+Sao Tome & Principe,6778,80,Africa
+Turks and Caicos,6752,40,North America
+Saint Kitts & Nevis,6607,48,North America
+Palau,6290,10,Australia/Oceania
+Saint Barthelemy,5507,6,North America
+Nauru,5393,1,Australia/Oceania
+Kiribati,5085,24,Australia/Oceania
+Anguilla,3904,12,North America
+Wallis & Futuna,3550,8,Australia/Oceania
+Saint Pierre & Miquelon,3452,2,North America
+Tuvalu,2943,1,Australia/Oceania
+Saint Helena,2166,0,Africa
+Falkland Islands,1930,0,South America
+Montserrat,1403,8,North America
+Niue,1059,0,Australia/Oceania
+Tokelau,80,0,Australia/Oceania
+Holy See,29,0,Europe
+Western Sahara,10,1,Africa
+MS Zaandam,9,2,
